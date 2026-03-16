@@ -7,8 +7,7 @@ function App() {
 <div>
 <Header />
 
-<StudentCard name="Shashi" age={22} course="React" />
-<StudentCard name="Rahul" age={23} course="Java" />
+<StudentCard name="Aditya Chatterjee" age={20} course="React" />
 
 <Footer />
 </div>
